@@ -2,11 +2,11 @@
 "update_url": "https://clients2.google.com/service/update2/crx",
 
   "manifest_version": 2,
-  "name": "Leaf Browser",
-  "version": "1.2",
-  "author": "Richard Lobo <codingcat@protonmail.com>",
+  "name": "HBrowser",
+  "version": "0.0.1",
+  "author": "Michael Chen <mikeychen09@gmail.com>",
 
-  "description": "The continuation of the project Leaf Browser Alpha.",
+  "description": "Qol for Richard Lobo's LeafBrowser",
   "icons": {
     "16": "images/icon16.png",
     "32": "images/icon32.png",

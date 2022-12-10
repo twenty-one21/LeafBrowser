@@ -1064,7 +1064,7 @@ body {
   animation: spin 1500ms infinite linear;
 }
 #main-container > .inner > .app-left .switcher .scroll .scroll-content .tab-tree .node.selected > .tab .button {
-  background-color: #d6d6d6;
+  background-color: #80f;
 }
 #main-container > .inner > .app-left .switcher .scroll .scroll-content .tab-tree .node.loading > .tab .button .icon.loading {
   display: block;

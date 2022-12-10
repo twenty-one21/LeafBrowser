@@ -1,2 +1,2 @@
-# LeafBrowser
-Hello This is Richard Lobo's Property.
+# HBrowser
+a remaking of devetec's leafbrowser but its purple
